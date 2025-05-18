@@ -1,0 +1,17 @@
+# Ignore system and environment files
+.DS_Store
+.env
+
+# Ignore node modules (if you ever use Node.js)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files and OS-specific files
+Thumbs.db
+*.tmp
+
+# Ignore build/output folders (optional if you build for production)
+dist/
+build/
